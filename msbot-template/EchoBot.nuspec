@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>msbot-template</id>
+    <version>1.0.0.0</version>
+    <title>Microsoft Bot Framework dotnet bot template</title>
+    <authors>James Mann</authors>
+    <owners>James Mann</owners>
+    <licenseUrl>https://github.com/jamesemann/dotnetcorestuff/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package will allow you to create a C# dotnet bot using .NET Core and the *preview* V4 Bot Builder. Tested with .NET Core 2.0.1.  Installs references to bot builder 4.0.1-preview. </description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>dotnet botframework bots v4 botbuilder</tags>
+        <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>
