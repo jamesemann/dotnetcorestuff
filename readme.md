@@ -10,9 +10,17 @@ These instructions show you how to install and use the template.
 
 This has been tested with .NET Core version 2.1, so should work with this version or above.
 
+### Uninstalling
+
+If you already have it installed, run the command:
+
+```
+dotnet new -u msbot-template
+```
+
 ### Installing
 
-Open a command prompt and run:
+Run the command:
 
 ```
 dotnet new -i msbot-template
