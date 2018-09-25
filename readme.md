@@ -8,7 +8,7 @@ These instructions show you how to install and use the template.
 
 ### Prerequisites
 
-This has been tested with .NET Core version 2.1, so should work with this version or above.
+This has been tested with .NET Core version 2.1.4, so should work with this version or above.
 
 ### Uninstalling
 
