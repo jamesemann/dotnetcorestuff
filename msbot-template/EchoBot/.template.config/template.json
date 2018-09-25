@@ -3,7 +3,7 @@
     "author": "James Mann",
     "classifications": [ "Web", "ASP.NET", "BotFramework" ],
     "identity": "JameseMann.BotFrameworkBot.CSharp",
-    "name": "ASP.NET Core Web API with Bot Framework (4.0.1-preview)",
+    "name": "ASP.NET Core Web API with Bot Framework V4",
     "shortName": "msbot",
     "sourceName": "EchoBot"
 }

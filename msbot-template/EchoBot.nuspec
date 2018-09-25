@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>msbot-template</id>
-    <version>4.0.7.1</version>
+    <version>4.0.7.2</version>
     <title>Microsoft Bot Framework dotnet bot template</title>
     <authors>James Mann</authors>
     <owners>James Mann</owners>
